@@ -1,7 +1,7 @@
 {
-  "version": "1.0.28",
-  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.28/app.asar",
-  "note": "KokaAuto 1.0.28 (Muse Pro) — cập nhật tự động qua GitHub; nguồn mặc định latest/download",
-  "sha256": "626283fcfa03ce27ff45daed879dff372e7dbefc4a0748ce52a37e7e357efea7",
-  "size": 1129961
+  "version": "1.0.29",
+  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.29/app.asar",
+  "note": "Thêm ChatGPT qua web + Claude qua web (không cần API key); nhiều tài khoản AI chạy song song tăng tốc phân tích",
+  "sha256": "0a2f87822605c233b2da97785a3faf331f7412355cbacd69adaeb91afd1e298d",
+  "size": 1162963
 }
