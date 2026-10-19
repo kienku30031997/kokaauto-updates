@@ -1,7 +1,7 @@
 {
-  "version": "1.0.37",
-  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.37/app.asar",
-  "note": "Super Prompt: prompt LUÔN có lời thoại — tự đọc lời thoại khi cần, bắt buộc AI dịch/đưa thoại vào từng nhịp giây, tự chèn thoại nếu AI quên",
-  "sha256": "f112d13fa2e544864335ac50309485028e3cdd9035417e53c6b5d0dcd290505a",
-  "size": 1230566
+  "version": "1.0.38",
+  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.38/app.asar",
+  "note": "Sửa Super Prompt: video N cảnh nhưng chỉ ra 1 prompt — giờ viết TỪNG prompt một (không bị cắt cụt), đủ đúng số cảnh đã chọn",
+  "sha256": "2c55ac2256644600ce107d0d9940ac44790b05cfa0d1758e5bc9395576817b9c",
+  "size": 1231473
 }
