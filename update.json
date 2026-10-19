@@ -1,7 +1,7 @@
 {
-  "version": "1.0.29",
-  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.29/app.asar",
-  "note": "Thêm ChatGPT qua web + Claude qua web (không cần API key); nhiều tài khoản AI chạy song song tăng tốc phân tích",
-  "sha256": "0a2f87822605c233b2da97785a3faf331f7412355cbacd69adaeb91afd1e298d",
-  "size": 1162963
+  "version": "1.0.30",
+  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.30/app.asar",
+  "note": "Thêm BẢN QUYỀN: màn hình kích hoạt + mã máy + key ký số (offline); dùng thử 7 ngày khi mở lần đầu",
+  "sha256": "14605975666a6c494b1452c043e9268729937f999093b9cbab110b7d4fc8813c",
+  "size": 1181835
 }
