@@ -1,7 +1,7 @@
 {
-  "version": "1.0.32",
-  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.32/app.asar",
-  "note": "Sửa đăng nhập Google: mở Chrome THƯỜNG (không cổng gỡ lỗi) để đăng nhập — Google hết chặn; thêm nút Đăng nhập tất cả (lần lượt từng tài khoản)",
-  "sha256": "a0f39f8a16a9859d63dd48a2c53aa24a3921d7c75e4b1635ac409e749f512c51",
-  "size": 1193954
+  "version": "1.0.33",
+  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.33/app.asar",
+  "note": "Không mở Chrome khi khởi động tool: chỉ kiểm tra phiên khi bấm nút; Chrome chỉ chạy khi có task hoặc đăng nhập",
+  "sha256": "41e8a019e14049d5097a53ecac271268b379a08bd3285fa41ad03e809a69c9a6",
+  "size": 1193594
 }
