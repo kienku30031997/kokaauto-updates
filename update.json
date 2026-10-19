@@ -1,7 +1,7 @@
 {
-  "version": "1.0.34",
-  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.34/app.asar",
-  "note": "Hiện lại icon KokaAuto trên taskbar (mặc định); gắn AppUserModelID để ghim taskbar đúng icon; tuỳ chọn ẩn vẫn có trong Cài đặt",
-  "sha256": "a913bac6db8f1737f8f2cad95c1e6870b381afe66f38ddff07cbc4aa58d3ac2f",
-  "size": 1193839
+  "version": "1.0.35",
+  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.35/app.asar",
+  "note": "Thêm module SUPER PROMPT: video (file/link) → AI phân tích → prompt tiếng Anh chi tiết từng giây theo phong cách (hài hước, kể chuyện trước/sau, POV khách hàng, unboxing, sang trọng, năng động/trend), độ dài 10/15/20s, chọn số lượng prompt",
+  "sha256": "edf0961ca41a6cc86e6f9ac6388272e6337dd400661f66c445ac399be9dfe1f5",
+  "size": 1216275
 }
