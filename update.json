@@ -1,7 +1,7 @@
 {
-  "version": "1.0.39",
-  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.39/app.asar",
-  "note": "Kể chuyện gia đình trong tab Chủ đề → Video: 4 nhân vật cố định (Bố, Mẹ, Gạo, Khoai) với giọng đọc riêng từng người, gợi ý 5 kịch bản hài, phân cảnh ~8s kèm thoại đúng tên nhân vật, character sheet + ảnh tham chiếu giữ đúng người ở mọi cảnh, video cảnh im lặng và app lồng nhiều giọng.",
-  "sha256": "319f8f76f779f118c64f65414fdc365b48e2ec6d2067654f1da646d3d5db00af",
-  "size": 1258869
+  "version": "1.0.40",
+  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.40/app.asar",
+  "note": "Kể chuyện gia đình (Chủ đề → Video): 4 nhân vật cố định với giọng đọc riêng, gợi ý 5 kịch bản hài, cảnh ~8s kèm thoại đúng tên nhân vật, character sheet + ảnh tham chiếu giữ đúng người, video cảnh im lặng và app lồng nhiều giọng; khớp tên nhân vật linh hoạt (Bố/Bố Văn).",
+  "sha256": "e01b88b6db4ff02a442eaee58f8d131830b24dccc92505fc652487287854cacb",
+  "size": 1258989
 }
