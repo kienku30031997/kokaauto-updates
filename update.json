@@ -1,7 +1,7 @@
 {
-  "version": "1.0.42",
-  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.42/app.asar",
-  "note": "Super Prompt: gửi NGUYÊN video cho AI phân tích toàn bộ (không tách cảnh ffmpeg), timeline đầy đủ từ đầu đến cuối; prompt tiếng Anh 10 giây/lần cho Muse AI (Muse hiện tạo 10s mỗi lần), giữ toàn bộ lời thoại; tự chuyển sang khung hình rải đều toàn video khi nhà cung cấp không nhận video.",
-  "sha256": "2a3a67fda6298167510d518126a1a9ab5ce3dd350fcb14b79e37f8467f5f2b84",
-  "size": 1300068
+  "version": "1.0.43",
+  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.43/app.asar",
+  "note": "Sửa phân tích ChatGPT Plus: nhận đúng câu trả lời (giao diện ChatGPT mới), gửi ảnh/video qua ô chọn tệp thay vì dán, chọn đúng khung chat mới nhất; Super Prompt gửi nguyên video và trả timeline đầy đủ, prompt 10s cho Muse AI.",
+  "sha256": "925428b50127bcafeb6b985ad02f8f811a30e2ee798557524a4a307a73b578a1",
+  "size": 1305117
 }
