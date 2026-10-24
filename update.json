@@ -1,7 +1,7 @@
 {
-  "version": "1.0.41",
-  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.41/app.asar",
-  "note": "Kể chuyện gia đình: character sheet 16:9 dễ nhìn, ảnh nhân vật hiện ngay khi vẽ xong, giới hạn 5 ảnh tham chiếu gửi kèm mỗi cảnh cho ổn định.",
-  "sha256": "6177d743a2be197bf5509d66f537adbb3dc6a96bd4aaa382bc19921c05a18120",
-  "size": 1259146
+  "version": "1.0.42",
+  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.42/app.asar",
+  "note": "Super Prompt: gửi NGUYÊN video cho AI phân tích toàn bộ (không tách cảnh ffmpeg), timeline đầy đủ từ đầu đến cuối; prompt tiếng Anh 10 giây/lần cho Muse AI (Muse hiện tạo 10s mỗi lần), giữ toàn bộ lời thoại; tự chuyển sang khung hình rải đều toàn video khi nhà cung cấp không nhận video.",
+  "sha256": "2a3a67fda6298167510d518126a1a9ab5ce3dd350fcb14b79e37f8467f5f2b84",
+  "size": 1300068
 }
