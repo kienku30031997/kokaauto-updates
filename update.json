@@ -1,7 +1,7 @@
 {
-  "version": "1.0.44",
-  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.44/app.asar",
-  "note": "Bản quyền: tách 2 ô nhập key theo tháng và key vĩnh viễn; hiển thị gói, số ngày còn lại/hết hạn; key tháng 30 ngày, key vĩnh viễn không hết hạn; công cụ cấp key thêm --plan monthly|lifetime.",
-  "sha256": "f637d7d01120a25efe377e71f1f7720163ce2d52967cd0dc6e3d2dfbd5fbc235",
-  "size": 1310698
+  "version": "1.0.45",
+  "url": "https://github.com/kienku30031997/kokaauto-updates/releases/download/v1.0.45/app.asar",
+  "note": "Bản quyền: key tháng 30 ngày tính từ lúc kích hoạt (không hết hạn trước khi bán), key vĩnh viễn; key mới KOKA2 tương thích ngược key cũ KOKA; 2 ô nhập key tháng/vĩnh viễn.",
+  "sha256": "1155c787f0f1adb76cf0f8f81c7d44c207febff425bf354a5c9c24f05c75b3ea",
+  "size": 1312429
 }
